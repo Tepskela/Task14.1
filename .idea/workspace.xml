@@ -4,11 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db345088-25f4-4112-aff3-dceba84ecb29" name="Changes" comment="" />
+    <list default="true" id="db345088-25f4-4112-aff3-dceba84ecb29" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/ntology/qajava/NotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/ntology/qajava/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/ntology/qajava/ShopRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/ntology/qajava/ShopRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -26,9 +46,60 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "F:/Program Files/QAJava/Task7.1"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.ntology.qajava" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ShopRepositoryTest.testWhenRemovedProductNotExist">
+    <configuration name="ShopRepositoryTest.testWhenRemovedProductExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task14.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.ntology.qajava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.ntology.qajava" />
+      <option name="MAIN_CLASS_NAME" value="ru.ntology.qajava.ShopRepositoryTest" />
+      <option name="METHOD_NAME" value="testWhenRemovedProductExist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopRepositoryTest.testWhenRemovedProductNotExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task14.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.ntology.qajava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.ntology.qajava" />
+      <option name="MAIN_CLASS_NAME" value="ru.ntology.qajava.ShopRepositoryTest" />
+      <option name="METHOD_NAME" value="testWhenRemovedProductNotExist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShopRepositoryTest.testWhenRemovedProductNotExist" />
+        <item itemvalue="JUnit.ShopRepositoryTest.testWhenRemovedProductExist" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
