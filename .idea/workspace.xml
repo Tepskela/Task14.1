@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db345088-25f4-4112-aff3-dceba84ecb29" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/ntology/qajava/NotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/ntology/qajava/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/ntology/qajava/ShopRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/ntology/qajava/ShopRepositoryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "F:/Program Files/QAJava/Task7.1"
+    "last_opened_file_path": "F:/Program Files/QAJava/TeamProject"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -59,6 +55,12 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="ru.ntology.qajava" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn clean test" />
+    </option>
   </component>
   <component name="RunManager" selected="JUnit.ShopRepositoryTest.testWhenRemovedProductNotExist">
     <configuration name="ShopRepositoryTest.testWhenRemovedProductExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
